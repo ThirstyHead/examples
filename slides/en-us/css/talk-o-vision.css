@@ -72,7 +72,7 @@ figure a{
 
 h2{
   font-size: 2em;
-  padding-top: 1em;
+  padding-top: 0.1em;
   font-family: var(--theme-font-family-heading);
 }
 
